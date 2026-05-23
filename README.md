@@ -1,10 +1,8 @@
-# 🚀 3D Animated GitHub Profile README
-
-Replace `NITISH1817` with your GitHub username.
-
-````md
 <h1 align="center">Hi 👋, I'm Nitish Priyan</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Linux Learner</h3>
+
+<h3 align="center">
+🚀 AI & ML Enthusiast | Python Developer | Linux Learner
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Python+Programmer;Linux+Explorer;Future+AI+Engineer" />
@@ -42,7 +40,8 @@ Replace `NITISH1817` with your GitHub username.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NITISH1817&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH1817&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -66,7 +65,7 @@ Replace `NITISH1817` with your GitHub username.
 # 🎥 3D Video Style GIF Section
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ0bW1jYTVsOGU5dWl0c2xmbmJmbnA0cW0wbnI3N2x4dWg5M2h4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500" />
 </p>
 
 ---
@@ -94,22 +93,21 @@ Replace `NITISH1817` with your GitHub username.
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+
+  <a href="https://github.com/NITISH1817">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
-# ✨ Cool Visitor Counter
+# ✨ Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NITISH1817&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
